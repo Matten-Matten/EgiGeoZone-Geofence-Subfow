@@ -5,6 +5,11 @@
 https://www.egigeozone.de/manual/default.html#Servereinstellungen
 
 ---
+
+![picture](https://raw.githubusercontent.com/Matten-Matten/EgiGeoZone-Geofence-Subfow/main/pics/empfangen.gif)
+![picture](https://raw.githubusercontent.com/Matten-Matten/EgiGeoZone-Geofence-Subfow/main/pics/config.png)
+
+---
 ## OUTPUT:
 
     {
