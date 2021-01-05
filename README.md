@@ -5,11 +5,22 @@
 https://www.egigeozone.de/manual/default.html#Servereinstellungen
 
 ---
+[-> Beispiel flow](https://github.com/Matten-Matten/EgiGeoZone-Geofence-Subfow/blob/main/bsp_flow.json)
+
+[-> Subflow](https://github.com/Matten-Matten/EgiGeoZone-Geofence-Subfow/blob/main/flow.json)
+
+---
 
 ![picture](https://raw.githubusercontent.com/Matten-Matten/EgiGeoZone-Geofence-Subfow/main/pics/empfangen.gif)
 ![picture](https://raw.githubusercontent.com/Matten-Matten/EgiGeoZone-Geofence-Subfow/main/pics/config.png)
 
 ---
+![Logo](https://homematic-forum.de/forum/styles/prosilver/theme/images/homematic-logo.png)
+
+Forum: https://homematic-forum.de/forum/viewtopic.php?f=77&t=64273
+
+---
+
 ## OUTPUT:
 
     {
