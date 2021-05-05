@@ -67,7 +67,7 @@ http://kb.easy-smarthome.de/CloudMatic_Informationen_-_IP_und_Port_Informationen
 ## Changelog
 
 ### 1.1.0 (2021-05-05)
-* (Matten-Matten)      `add: each ID can be assigned a name in the properties (data point "msg.payload.device_name"`
+* (Matten-Matten)      `add: each ID can be assigned a name in the properties (data point "msg.payload.device_name")`
 
 ### 1.0.1 (2021-01-10)
 * (Matten-Matten)      `add: data point "msg.payload.inZone"`
