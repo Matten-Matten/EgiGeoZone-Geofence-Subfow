@@ -60,7 +60,7 @@ http://`12345`.meine-homematic.de:`8001`/webhook/geo
 
 Port 8001 = der Port den ihr in Cloudmatic frei gebt.
 
-http://kb.easy-smarthome.de/CloudMatic_Informationen_-_IP_und_Port_Informationen
+http://kb.easy-smarthome.de/CloudMatic_Connect_-_Netzwerkgeräte
 
 ---
 
